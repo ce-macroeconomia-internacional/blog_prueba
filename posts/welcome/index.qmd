@@ -1,11 +1,12 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Bienvenido al blog del Círculo de Estudios"
+author: "José Azañero"
 date: "2026-08-15"
 categories: [news]
+description: ""
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Hola alumnos, les doy la bienvenida al blog del Círculo de Estudios de Macroeconomía en un Entorno Global. Este blog tiene como objetivo compartir noticias, análisis y recursos relacionados con la macroeconomía internacional, así como ejercicios prácticos y código para el análisis económico.
 
 ![](thumbnail.jpg)
 

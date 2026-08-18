@@ -1,10 +1,10 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Macroeconomía con Python"
+author: "Marco Virú"
 date: "2026-08-18"
 categories: [news, code, analysis]
 image: "image.jpg"
-description: "Este es un resumen breve para la portada del blog."
+description: "Ejercicio práctico utilizando la API del FMI."
 ---
 
 This is a post with executable code.
