@@ -4,6 +4,13 @@ author: "Harlow Malloc"
 date: "2026-08-18"
 categories: [news, code, analysis]
 image: "image.jpg"
+description: "Este es un resumen breve para la portada del blog."
 ---
+
+This is a post with executable code.
+
+### Material complementario
+
+Puedes descargar el informe completo en formato PDF haciendo clic en el siguiente enlace:
 
 [📥 Descargar el documento PDF](../../docs_pdf/Ejercicio práctico con la API del FMI 2.pdf)
