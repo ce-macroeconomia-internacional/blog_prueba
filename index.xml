@@ -39,8 +39,8 @@
   <media:content url="https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
-  <dc:creator>Tristan O&#39;Malley</dc:creator>
+  <title>Bienvenido al blog del Círculo de Estudios</title>
+  <dc:creator>José Azañero</dc:creator>
   <link>https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/welcome/</link>
   <description><![CDATA[ 
 
@@ -48,7 +48,7 @@
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
+<p>Hola alumnos, les doy la bienvenida al blog del Círculo de Estudios de Macroeconomía en un Entorno Global. Este blog tiene como objetivo compartir noticias, análisis y recursos relacionados con la macroeconomía internacional, así como ejercicios prácticos y código para el análisis económico.</p>
 <p><img src="https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 

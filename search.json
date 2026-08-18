@@ -2,16 +2,16 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Bienvenido al blog del Círculo de Estudios",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Hola alumnos, les doy la bienvenida al blog del Círculo de Estudios de Macroeconomía en un Entorno Global. Este blog tiene como objetivo compartir noticias, análisis y recursos relacionados con la macroeconomía internacional, así como ejercicios prácticos y código para el análisis económico.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog del Circulo de Macroeconomia en un Entorno Global",
     "section": "",
-    "text": "Macroeconomía con Python\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\nEjercicio práctico utilizando la API del FMI.\n\n\n\n\n\nAug 18, 2026\n\n\nMarco Virú\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 15, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Macroeconomía con Python\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\nEjercicio práctico utilizando la API del FMI.\n\n\n\n\n\nAug 18, 2026\n\n\nMarco Virú\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido al blog del Círculo de Estudios\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 15, 2026\n\n\nJosé Azañero\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
