@@ -1,11 +1,11 @@
 project:
   type: website
   resources:
-    - "docs_pdf/*"
+    - "docs_pdf/"
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  site-url: https://ce-macroeconomia-internacional.github.io/blog_prueba # you must change this appropriately for RSS feeds to work properly
   title: "Blog del Circulo de Macroeconomia en un Entorno Global"
   navbar:
     right:
