@@ -1,5 +1,7 @@
 project:
-  type: website
+  type: blog
+  resources:
+    - "docs_pdf/*"
 
 website:
   description: "A blog built with Quarto"
