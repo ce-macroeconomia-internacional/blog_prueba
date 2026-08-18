@@ -1,13 +1,11 @@
 ---
-title: "Bienvenido al blog del Círculo de Estudios"
+title: "Bienvenida al blog del Círculo de Estudios"
 author: "José Azañero"
 date: "2026-08-15"
 categories: [news]
-description: ""
+description: "Post de bienvenida"
 ---
 
 Hola alumnos, les doy la bienvenida al blog del Círculo de Estudios de Macroeconomía en un Entorno Global. Este blog tiene como objetivo compartir noticias, análisis y recursos relacionados con la macroeconomía internacional, así como ejercicios prácticos y código para el análisis económico.
 
 ![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
