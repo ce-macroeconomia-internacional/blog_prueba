@@ -1,5 +1,5 @@
 project:
-  type: blog
+  type: website
   resources:
     - "docs_pdf/*"
 
