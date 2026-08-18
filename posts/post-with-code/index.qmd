@@ -11,6 +11,6 @@ This is a post with executable code.
 
 ### Material complementario
 
-Puedes descargar el informe completo en formato PDF haciendo clic en el siguiente enlace:
+Puedes descargar el informe completo en formato PDF haciendo clic en el siguiente enlace 2:
 
 [📥 Descargar el documento PDF](../../docs_pdf/Ejercicio práctico con la API del FMI 2.pdf)
