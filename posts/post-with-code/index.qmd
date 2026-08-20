@@ -7,7 +7,7 @@ image: "image.jpg"
 description: "Ejercicio práctico utilizando la API del FMI."
 ---
 
-Este es el primer post donde se sube un material en PDF descargable
+Link de Trading Economics https://tradingeconomics.com/
 
 ### Material complementario
 
