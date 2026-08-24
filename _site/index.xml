@@ -31,12 +31,11 @@
 </section>
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
+  <category>python</category>
+  <category>análisis</category>
   <guid>https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/post-with-code/</guid>
   <pubDate>Tue, 18 Aug 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/post-with-code/macro_with_python.png" medium="image" type="image/png" height="70" width="144"/>
 </item>
 <item>
   <title>Bienvenida al blog del Círculo de Estudios</title>
@@ -54,7 +53,7 @@
 
 
  ]]></description>
-  <category>news</category>
+  <category>noticias</category>
   <guid>https://ce-macroeconomia-internacional.github.io/blog_prueba/posts/welcome/</guid>
   <pubDate>Sat, 15 Aug 2026 05:00:00 GMT</pubDate>
 </item>

@@ -2,7 +2,7 @@
 title: "Bienvenida al blog del Círculo de Estudios"
 author: "José Azañero"
 date: "2026-08-15"
-categories: [news]
+categories: [noticias]
 description: "Post de bienvenida"
 ---
 

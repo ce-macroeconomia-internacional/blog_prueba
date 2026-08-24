@@ -1,5 +1,5 @@
 ---
-title: "Blog del Circulo de Macroeconomia en un Entorno Global"
+title: "Blog del Círculo de Macroeconomía en un Entorno Global"
 listing:
   contents: posts
   feed: true

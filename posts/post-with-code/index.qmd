@@ -2,8 +2,8 @@
 title: "Macroeconomía con Python"
 author: "Marco Virú"
 date: "2026-08-18"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [python, análisis]
+image: "macro_with_python.png"
 description: "Ejercicio práctico utilizando la API del FMI."
 ---
 
